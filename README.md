@@ -12,3 +12,4 @@
 - [ตัวอย่างการเขียน asymmetric java](https://gregorycernera.medium.com/encrypting-and-decrypting-a-message-using-asymmetric-keys-with-java-explained-step-by-step-with-54fced36118a)
 - [เรียนรู้เกี่ยวกับ Infrastructure](https://www.jittagornp.me/blog/public-key-infrastructure/?series=pki)
 - [Symmetric Encryption VS Asymmetric Encryption](https://www.ert.co.th/symmetric-encryption-vs-asymmetric-encryption/)
+- [การทำลายเซ็นต์ดิจิตอล (Digital Signature) อย่างง่าย ด้วยภาษา Java](https://www.jittagornp.me/blog/java-digital-signature/?series=pki)
